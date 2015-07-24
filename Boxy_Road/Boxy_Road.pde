@@ -1,5 +1,4 @@
 /*
- * Jack Purvis (300311934)
  * MDDN242: Project 3, Game
  */
 
@@ -223,4 +222,5 @@ void removeFromMoveStack(int i) {
 
   moveStack = newMoveStack;
 }
+
 
