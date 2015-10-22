@@ -22,3 +22,6 @@ Sound and font sources in reference.txt file.
 
 By Jack Purvis
 emperorpurvis@gmail.com
+
+~License~
+http://creativecommons.org/licenses/by-nc-nd/4.0/
